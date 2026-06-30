@@ -1,5 +1,5 @@
 # 💫 About Me:
-## Hi there 👋<br><br># 💫 About Me:<br>👨‍💻 Technical Lead · Full-Stack Engineer · HRMS & ERP Specialist<br>🚀 Building an Enterprise HRMS platform with Java 17, Spring Boot 3 & React.js at Uniquo<br>🏗️ Microservices Architecture · System Design <br>☕ Passionate about Java/Spring Boot backend systems, HRMS/ERP platforms & Full-stack React projects
+## Hi there 👋<br><br> 💫 About Me:<br>👨‍💻 Technical Lead · Full-Stack Engineer · HRMS & ERP Specialist<br>🚀 Building an Enterprise HRMS platform with Java 17, Spring Boot 3 & React.js at Uniquo<br>🏗️ Microservices Architecture · System Design <br>☕ Passionate about Java/Spring Boot backend systems, HRMS/ERP platforms & Full-stack React projects
 
 
 ## 🌐 Socials:
