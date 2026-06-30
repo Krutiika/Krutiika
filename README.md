@@ -10,9 +10,7 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=krutiika&theme=default_repocard&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=krutiika&theme=default_repocard&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=krutiika&theme=default_repocard&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
----
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=krutiika&layout=compact&langs_count=10&theme=default_repocard)
 [![](https://komarev.com/ghpvc/?username=krutiika&icon=0&color=2)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
